@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1651970639 source:c:\users\isado\dropbox\cic\estrutura de dados\gerador de parafrases\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"binTree.h"
+
+1651970702 c:\users\isado\dropbox\cic\estrutura de dados\gerador de parafrases\bintree.h
+
